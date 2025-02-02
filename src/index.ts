@@ -21,6 +21,9 @@ const types = {
   [Status.PENDING]: null,
 }
 
+/**
+ * Class that does all the formatting for GitHub Actions.
+ */
 export default class GitHubActionsFormatter extends Formatter {
   private stepResults: Record<string, messages.TestStepFinished[]> = {}
 

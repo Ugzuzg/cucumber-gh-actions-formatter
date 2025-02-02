@@ -1,8 +1,8 @@
 {
-  "name": "@ugzuzg/cucumber-github-actions-formatter",
+  "name": "@ugzuzg/cucumber-gh-actions-formatter",
   "version": "0.0.0-development",
   "description": "Cucumber.js Formatter for GitHub Actions",
-  "repository": "https://github.com/Ugzuzg/cucumber-github-actions-formatter",
+  "repository": "https://github.com/Ugzuzg/cucumber-gh-actions-formatter",
   "maintainers": [
     "Jaraslau Viktorchyk <ugzuzg@gmail.com>"
   ],

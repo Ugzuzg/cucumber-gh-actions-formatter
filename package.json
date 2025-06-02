@@ -36,7 +36,7 @@
     "@swc-node/register": "^1.10.10",
     "@tsconfig/node20": "^20.1.5",
     "@types/eslint__js": "^8.42.3",
-    "@types/node": "^22.15.21",
+    "@types/node": "^22.15.29",
     "colors": "^1.4.0",
     "eslint": "^9.27.0",
     "eslint-config-prettier": "^10.1.5",

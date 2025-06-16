@@ -34,7 +34,7 @@
     "@cucumber/messages": "^27.2.0",
     "@eslint/js": "^9.28.0",
     "@swc-node/register": "^1.10.10",
-    "@tsconfig/node20": "^20.1.5",
+    "@tsconfig/node20": "^20.1.6",
     "@types/eslint__js": "^8.42.3",
     "@types/node": "^22.15.30",
     "colors": "^1.4.0",

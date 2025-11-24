@@ -40,7 +40,7 @@
     "colors": "^1.4.0",
     "eslint": "^9.39.1",
     "eslint-config-prettier": "^10.1.8",
-    "glob": "^11.1.0",
+    "glob": "^13.0.0",
     "prettier": "^3.6.2",
     "semantic-release": "^25.0.2",
     "stream-to-string": "^1.2.0",

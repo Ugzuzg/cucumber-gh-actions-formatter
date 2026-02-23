@@ -38,7 +38,7 @@
     "@types/eslint__js": "^8.42.3",
     "@types/node": "^25.3.0",
     "colors": "^1.4.0",
-    "eslint": "^9.39.2",
+    "eslint": "^10.0.1",
     "eslint-config-prettier": "^10.1.8",
     "glob": "^13.0.6",
     "prettier": "^3.8.1",
